@@ -1,1 +1,1 @@
-Basic PHP-MySQL Log In Form (For Beginners) | Lecture 3
+PHP-MySQL Log In Form (For Beginners) | Lecture 3
