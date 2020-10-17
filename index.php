@@ -1,8 +1,10 @@
+<!-- Start of the php topic-->
 <!DOCTYPE html>
 <html>
 <head>
 	<title>My Page</title>
 </head>
+	<!-- Body part-->
 <body>
 	<form method="post" action="login.do.php">
 		Enter your email : <input type="email" name="email"><br>
